@@ -2,7 +2,7 @@
 
 
 **adjanorpro18/adjanorpro18** is a ✨ _special_ ✨ repository because its `README.md` 
-![Park](https://github.com/adjanorpro18/adjanorpro18/edit/main/README.md/park.png) appears on your GitHub profile.
+![Park](https://github.com/adjanorpro18/adjanorpro18/blob/master/img/park.png) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
