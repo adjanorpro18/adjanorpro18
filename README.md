@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-**adjanorpro18/adjanorpro18** is a ✨ _special_ ✨ repository because its `README.md` (https://github.com/adjanorpro18/adjanorpro18/edit/main/README.md/park.png) appears on your GitHub profile.
+**adjanorpro18/adjanorpro18** is a ✨ _special_ ✨ repository because its `README.md` 
+![Cover](https://github.com/adjanorpro18/adjanorpro18/edit/main/README.md/park.png) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
