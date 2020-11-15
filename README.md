@@ -1,9 +1,25 @@
 
 
+
+
 - 🌱 I’m currently learning ...
 
 
+
+
+
+
+
+
 ![Cover](https://github.com/adjanorpro18/adjanorpro18/blob/main/pack.png)
+
+
+
+
+
+
+
+
 
 
 
